@@ -1,4 +1,4 @@
-# SentimentAnalysis
+# Sentiment Analysis
 
 This is a repository to experiment different types of Sentiment Analysis using Machine Learning. 
 
